@@ -1,0 +1,7 @@
+<svg width="240" height="64" viewBox="0 0 240 64" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="240" height="64" rx="16" fill="transparent"/>
+  <text x="18" y="38" font-family="Arial, Helvetica, sans-serif" font-size="28" font-weight="700" fill="#111111">biztara</text>
+  <text x="18" y="56" font-family="Arial, Helvetica, sans-serif" font-size="12" fill="#475569">technologies</text>
+  <path d="M168 18L190 18L190 40" stroke="#0F766E" stroke-width="6" stroke-linecap="round"/>
+  <path d="M184 14L190 18L186 22" stroke="#0F766E" stroke-width="6" stroke-linecap="round"/>
+</svg>
